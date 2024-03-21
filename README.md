@@ -9,3 +9,7 @@
 1.用 'npm run start' 開啟 client 頁面, 並運行在 'port:3000'
 
 2.用 nodemon index.js 開啟 server 功能, 並運行在 'port:8080'
+
+.env檔已移除，記得clone後，建立.env檔案
+
+.env中DB_設定需改為你的資料庫、帳號、密碼才能開始使用
